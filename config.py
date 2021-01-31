@@ -19,7 +19,7 @@ SANDBOX_WIDTH = 600
 SANDBOX_HEIGHT = 600
 RANDOM_STATE = None
 
-#python visual.py 16-32-2_10000_29012021_1656.json
-#python visual.py -b 100 -H 400 -W 800 16-32-2_10000_29012021_1656.json
+#python visual.py sample/16-32-2_10000_29012021_1656.json
+#python visual.py -b 100 -H 400 -W 800 sample/16-32-2_10000_29012021_1656.json
 
 #python creation.py -s 5 10 -F 0.3  -D 0.5 -L 5000 -b 40 -g 20
